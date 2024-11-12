@@ -1,0 +1,15 @@
+C:\workspace\FarmersMarket\FarmersMarket.Logic\bin\Debug\net8.0\FarmersMarket.Logic.deps.json
+C:\workspace\FarmersMarket\FarmersMarket.Logic\bin\Debug\net8.0\FarmersMarket.Logic.dll
+C:\workspace\FarmersMarket\FarmersMarket.Logic\bin\Debug\net8.0\FarmersMarket.Logic.pdb
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\FarmersMarket.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\FarmersMarket.Logic.AssemblyInfoInputs.cache
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\FarmersMarket.Logic.AssemblyInfo.cs
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\FarmersMarket.Logic.csproj.CoreCompileInputs.cache
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\FarmersMarket.Logic.dll
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\refint\FarmersMarket.Logic.dll
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\FarmersMarket.Logic.pdb
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\ref\FarmersMarket.Logic.dll
+C:\workspace\FarmersMarket\FarmersMarket.Logic\bin\Debug\net8.0\FarmersMarket.Database.dll
+C:\workspace\FarmersMarket\FarmersMarket.Logic\bin\Debug\net8.0\FarmersMarket.Database.pdb
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\FarmersMarket.Logic.csproj.AssemblyReference.cache
+C:\workspace\FarmersMarket\FarmersMarket.Logic\obj\Debug\net8.0\FarmersM.D1FF0952.Up2Date

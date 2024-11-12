@@ -1,0 +1,14 @@
+C:\workspace\FarmersMarket\FarmersMarket.Database\bin\Debug\net8.0\FarmersMarket.Database.deps.json
+C:\workspace\FarmersMarket\FarmersMarket.Database\bin\Debug\net8.0\FarmersMarket.Database.runtimeconfig.json
+C:\workspace\FarmersMarket\FarmersMarket.Database\bin\Debug\net8.0\FarmersMarket.Database.dll
+C:\workspace\FarmersMarket\FarmersMarket.Database\bin\Debug\net8.0\FarmersMarket.Database.pdb
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\FarmersMarket.Database.csproj.AssemblyReference.cache
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\FarmersMarket.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\FarmersMarket.Database.AssemblyInfoInputs.cache
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\FarmersMarket.Database.AssemblyInfo.cs
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\FarmersMarket.Database.csproj.CoreCompileInputs.cache
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\FarmersMarket.Database.dll
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\refint\FarmersMarket.Database.dll
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\FarmersMarket.Database.pdb
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\FarmersMarket.Database.genruntimeconfig.cache
+C:\workspace\FarmersMarket\FarmersMarket.Database\obj\Debug\net8.0\ref\FarmersMarket.Database.dll
